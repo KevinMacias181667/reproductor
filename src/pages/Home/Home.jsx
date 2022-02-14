@@ -68,11 +68,11 @@ function Home() {
 
             <Grid item xs={6}>
             <Button variant="contained"  color="succes" onClick={search}> Search </Button>
-                <Button variant="contained" href="https://github.com/KevinMacias181667/reproductor" color="warning">GitHub Kevin Eduardo Sanchez Macias 181667</Button>
+                <Button variant="contained" href="https://github.com/KevinMacias181667/reproductor" color="success">GitHub Kevin Eduardo Sanchez Macias 181667</Button>
                
             </Grid>
             <Grid>
-                <Button onClick={getSpotifyToken} align="center">token</Button>
+                <Button onClick={getSpotifyToken}>token</Button>
             </Grid>
             <Grid
                 container
