@@ -67,7 +67,7 @@ function Home() {
             </Grid>
 
             <Grid item xs={6}>
-            <Button variant="contained"  color="succes" onClick={search}> Search </Button>
+            <Button variant="contained" onClick={search}> Search </Button>
                 <Button variant="contained" href="https://github.com/KevinMacias181667/reproductor" color="success">GitHub Kevin Eduardo Sanchez Macias 181667</Button>
                
             </Grid>
