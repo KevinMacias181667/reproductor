@@ -72,7 +72,7 @@ function Home() {
                
             </Grid>
             <Grid>
-                <Button onClick={getSpotifyToken}>token</Button>
+                <Button onClick={getSpotifyToken} align="center">token</Button>
             </Grid>
             <Grid
                 container
