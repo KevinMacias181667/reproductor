@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  background-image: url("https://fondosmil.com/fondo/26165.jpg");
+  background-size: cover;
+  background-repeat: none;
+  min-height: 100vh;  
+  display: flex;
 }
 
 .App-logo {
